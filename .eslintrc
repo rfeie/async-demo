@@ -1,0 +1,8 @@
+{
+  // ...
+  "plugins": ["ie-static-methods"],
+  "rules": {
+    // ...
+    "ie-static-methods/static-methods": "error"
+  }
+}
